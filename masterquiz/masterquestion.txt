@@ -1,0 +1,11 @@
+1;Which number is the largest;1;4;3;4;easy
+2;Which number is the smallest;-3;3;0;-3;easy
+11;Samsung phones have as a system:;android;ios;blackberry;android;medium
+12;Romania celebrates union day on:;1 decembrie; 14 ianuarie; 26 noiembrie;1 decembrie;hard
+3;Which number is prime;2;32;9;2;easy
+4;Which country has the largest GPD;Brazil;China;UK;China;medium
+5;Which is not a fish;carp;orca;eel;orca;medium
+6;Name the first satellite;Apollo;Sputnik;Zaria;Sputnik;medium
+7;Which Apollo mission didn't make it to the moon;11;13;17;13;hard
+8;A mole can be;animal;quantity;both;both;hard
+9;Notre dame de Paris is written by:;Hugo;Balzac;Moliere;Hugo;medium
